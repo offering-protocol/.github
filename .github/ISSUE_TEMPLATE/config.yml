@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ODP questions and design discussions
+    url: https://github.com/offering-protocol/odp-specs/discussions
+    about: Ask usage, protocol-design, and cross-implementation questions.
